@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Rosario! 👋
 
-<!--
-**RosarioBA/RosarioBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm passionate about creativity and technology, currently diving into the world of front-end development.
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- **Learning HTML, CSS, and JavaScript**: Building foundational skills for web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning
+- Currently learning front-end development, focusing on HTML, CSS, and JavaScript.
+
+## 💬 Ask Me About
+- Front-end development
+- Creative design
+- Photography
+
+## 📫 How to Reach Me
+- Email: [marbus88910@stud.noroff.no](mailto:marbus88910@stud.noroff.no)
+
+## ⚡ Fun Fact
+- I love being creative and have a keen interest in fashion design, photography, and Photoshop.
