@@ -71,7 +71,7 @@ Beyond coding, I'm passionate about:
 - **🎪 Visual Design**: Bringing creativity to web interfaces and user experiences
 
 ## 📫 Let's Connect!
-- 🌐 **Portfolio**: [rosarioba.github.io/portfolio2](https://rosarioba.github.io/portfolio-2)
+- 🌐 **Portfolio**: [rosarioba.github.io/portfolio2](https://rosarioba.github.io/portfolio2)
 - 📧 **Email**: marbus22891@stud.noroff.no
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/rosarioba)
 - 🐙 **GitHub**: You're already here! Feel free to explore my repositories
