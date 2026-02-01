@@ -60,7 +60,8 @@ Interactive auction website with real-time bidding functionality.
 ## Contact
 
 - **Email**: rosarioazevedob@gmail.com
-- **Portfolio**: rosarioba.github.io/portfolio2
+- **Portfolio**: rosarioba.com
+- **LinkedIn**: https://www.linkedin.com/in/rosario-bustillo-119b8135a/
 - **Location**: Oslo, Norway
 
 ---
